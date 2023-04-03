@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\diak\\Desktop\\programopzos\\app\\javafx\\javafx.base.jar",
+        "c:\\Users\\diak\\Desktop\\programopzos\\app\\javafx\\javafx.controls.jar",
+        "c:\\Users\\diak\\Desktop\\programopzos\\app\\javafx\\javafx.fxml.jar",
+        "c:\\Users\\diak\\Desktop\\programopzos\\app\\javafx\\javafx.graphics.jar",
+        "c:\\Users\\diak\\Desktop\\programopzos\\app\\javafx\\javafx.media.jar",
+        "c:\\Users\\diak\\Desktop\\programopzos\\app\\javafx\\javafx.swing.jar",
+        "c:\\Users\\diak\\Desktop\\programopzos\\app\\javafx\\javafx.web.jar",
+        "c:\\Users\\diak\\Desktop\\programopzos\\app\\javafx\\javafx-swt.jar"
+    ]
+}
