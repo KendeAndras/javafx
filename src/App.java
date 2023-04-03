@@ -1,5 +1,3 @@
-import org.omg.CORBA.Object;
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.StackPane;
@@ -11,11 +9,11 @@ public class App extends Application {
     }
 
     @Override
-    public void start(Stage prStage) throws Exception {
+    public void start(Stage priStage) throws Exception {
         StackPane sp = new StackPane();
 
-        Scene scene = new Scene(null);
-        prStage.setScene(scene);
-        prStage.show();
+        Scene scene = new Scene(sp);
+        priStage.setScene(scene);
+        priStage.show();
     }
 }

@@ -17,7 +17,7 @@
             "request": "launch",
             "mainClass": "App",
             "projectName": "romb_e025282",
-            "vmArgs": "C:/Users/diak/Desktop/programopzos/app/javafx --add-modules javafx.controls,javafx.fxml"
+            "vmArgs": "C:/Users/diak/Desktop/programopzos/app/romb --add-modules javafx.controls,javafx.fxml"
         }
     ]
 }
